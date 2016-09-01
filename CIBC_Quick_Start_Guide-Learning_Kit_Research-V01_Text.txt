@@ -1,0 +1,45 @@
+I
+Framework and Curriculum for Self-Starter Learning Kit(s) - (My Wish-List)
+
+
+
+Learning Resources (in order of preference)
+
+Reference Sites (Reliable / independent Nodejs and JavaScript reference materials)
+Node Source Of Truth - Nodejs.Org
+MDN - https://developer.mozilla.org/en-US/docs/Web/JavaScript 
+ECMAScript6  -http://es6-features.org/#Constants
+Google - TBD (V8?)
+Recommended Books?
+From Amazon - TBD
+www.nodebeginner.org/
+
+Training and Tutorials
+Udemmy _reasonably priced training (<$30)
+Express - http://www.tutorialindustry.com/node-js-express-tutorial
+https://www.airpair.com/javascript/node-js-tutorial
+Nodeschool 
+Git - Git-it Guide 
+Node Hero - Node.js Project Structure Tutorial | @RisingStack 
+Blogs
+Why Use Node.js? A Comprehensive Tutorial with Examples | Toptal
+Node.js Best Practices
+https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
+How I Structure RESTful APIs using Express 4 
+
+Vendor-Platform Based Learning Resources
+Microsoft
+Learn how to create a simple Node.js web application and deploy it to an Azure cloud service -  Build and deploy a Node.js application to an Azure Cloud Service 
+A tutorial that builds on the cloud service tutorial, and demonstrates how to use the Express module.  - Build a Node.js web application using Express on an Azure Cloud Service
+
+IBM
+Learn how to create a simple Node.js web application and deploy it to an Azure cloud service -  Build and deploy a Node.js application to an Azure Cloud Service 
+A tutorial that builds on the cloud service tutorial, and demonstrates how to use the Express module.  - Build a Node.js web application using Express on an Azure Cloud Service 
+
+Oracle
+Learn how to create a simple Node.js web application and deploy it to an Azure cloud service -  Build and deploy a Node.js application to an Azure Cloud Service 
+A tutorial that builds on the cloud service tutorial, and demonstrates how to use the Express module.  - Build a Node.js web application using Express on an Azure Cloud Service
+
+Amazon
+Learn how to create a simple Node.js web application and deploy it to an Azure cloud service -  Build and deploy a Node.js application to an Azure Cloud Service 
+A tutorial that builds on the cloud service tutorial, and demonstrates how to use the Express module.  - Build a Node.js web application using Express on an Azure Cloud Service 
